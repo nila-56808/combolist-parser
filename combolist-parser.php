@@ -1,4 +1,4 @@
-<?php
+Https://www.facebook.com/nila.hossain.56808<?php
 
     /**
      * Combolist parser
@@ -13,11 +13,11 @@
     ini_set('memory_limit', '800M');
 
     $filter = array(
-        'gmail' => 'gmail.com',
+        'gmail' => 'nilahossain01@gmail.com',
         'yahoo' => ['yahoo.com', 'yahoo.fr'],
         'hotmail' => 'hotmail.com',
         'orange' => 'orange.fr',
-        'laposte' => 'laposte.net'
+        'laposte' => 'Https://www.facebook.com/nila.hossain.56808'
     );
 
     if($argc === 2){
